@@ -1,7 +1,7 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<h1>Hello Vanilla!</h1>
+<h1>ふりがなプログラミング</h1>
 <p></p>
 <div>
   We use the same configuration as Parcel to bundle this sandbox, you can find more
